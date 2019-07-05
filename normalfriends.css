@@ -1,0 +1,91 @@
+/* Little Circle Status (Default) */
+    .online .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--online)) !important;
+    border-radius: 50px !important;
+    width: 20px !important;
+    height: 20px !important;
+    left: 60px !important;
+    border: 2px solid #1e1e1f !important;
+    z-index: 2 !important;}
+
+    .ingame .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--ingame)) !important;
+    border-radius: 50px !important;
+    width: 20px !important;
+    height: 20px !important;
+    left: 60px !important;
+    border: 2px solid #1e1e1f !important;
+    z-index: 2 !important;}
+
+    .ingame .X-Large .steamavatar_avatarStatus_1Pwr6 {
+    border-radius: 50px !important;
+    border-radius: 50px !important;
+    width: 20px !important;
+    height: 20px !important;
+    left: 60px !important;
+    border: 2px solid #1e1e1f !important;
+    z-index: 2 !important;}
+
+    .awayOrSnooze .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--snooze)) !important;
+    border-radius: 50px !important;
+    border-radius: 50px !important;
+    width: 20px !important;
+    height: 20px !important;
+    left: 60px !important;
+    border: 2px solid #1e1e1f !important;
+    z-index: 2 !important;} 
+
+    .golden .steamavatar_avatarStatus_1Pwr6 {
+    border-radius: 50px !important;
+    width: 20px !important;
+    height: 20px !important;
+    left: 60px !important;
+    border: 2px solid #1e1e1f !important;
+    z-index: 2 !important;}
+
+    /* Around Avatar Status */
+    /*.online .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--online)) !important;
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;}
+
+    .ingame .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--ingame)) !important;
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;}
+
+    .ingame .X-Large .steamavatar_avatarStatus_1Pwr6 {
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;}
+
+    .awayOrSnooze .steamavatar_avatarStatus_1Pwr6 {
+    background: rgb(var(--snooze)) !important;
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;} 
+
+    .golden .steamavatar_avatarStatus_1Pwr6 {
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;}
+
+    .watchingbroadcast .steamavatar_avatarStatus_1Pwr6 {
+    border-radius: 50px !important;
+    width: 92px !important;
+    height: 92px !important;
+    left: -1px !important;
+    top: -1px !important;}
